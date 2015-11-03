@@ -49,6 +49,7 @@ a, a:active, a:focus, a:hover,
 /* DubX Menu */
 .for_content {
 	background-image: url("http://i.imgur.com/dhvLLBY.png");
+	opacity: 0.5;
 }
 .for_content_off {
 	color: #DDDDDD !important;
@@ -113,6 +114,7 @@ span.name,
 /* Video Player */
 #main_player {
 	background-image: url("http://i.imgur.com/dhvLLBY.png");
+	opacity: 0.5;
 	border-radius: 0.4rem;
 }
 #main_player #custom_iframe_embed_error, #main_player .playbtn-el {
@@ -128,6 +130,7 @@ span.name,
 #main_player .player_header span {
 	border-radius: 0.4rem;
 	background-image: url("http://i.imgur.com/dhvLLBY.png");
+	opacity: 0.5;
 	font-weight: 500;
 	color: #FFF;
 }
@@ -141,6 +144,7 @@ span.name,
 /* Video Buttons (bottom) */
 #main_player .play-song-link {
 	background-image: url("http://i.imgur.com/dhvLLBY.png");
+	opacity: 0.5;
 	border-radius: 0.4rem;
 }
 #main_player .player_sharing .player-controller-container .volume-controller-container #volume-div .ui-slider-range-min,
@@ -151,6 +155,7 @@ span.name,
 /* Chat */
 #main-room .right_section, #profileMainSection {
 	background-image: url("http://i.imgur.com/dhvLLBY.png");
+	opacity: 0.5;
 	border-radius: 0.4rem;
 }
 #chat .chat_tools span:hover {
