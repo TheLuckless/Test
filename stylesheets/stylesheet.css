@@ -127,7 +127,7 @@ span.name,
 }
 #main_player .player_header span {
 	border-radius: 0.4rem;
-	background: rgba(8,8,8,0.78);
+	background-image: url("http://i.imgur.com/QpOrZFN.png");
 	font-weight: 500;
 	color: #FFF;
 }
