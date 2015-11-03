@@ -120,7 +120,7 @@ span.name,
 }
 
 /* Tasty Logo */
-#main-room .left_section, #profileLeftSection {
+#main-room .left_section {
 	background-image: url(http://i.imgur.com/XP5pQL3.png);
 	background-repeat: no-repeat;
 	background-attachment: fixed;
