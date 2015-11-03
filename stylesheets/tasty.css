@@ -110,14 +110,6 @@ span.name,
 	opacity: .90;
 }
 
-/* Tasty Logo */
-body {
-	background-image: url(http://i.imgur.com/XP5pQL3.png);
-	background-repeat: no-repeat;
-	background-attachment: fixed;
-	top: 50%;
-}
-
 /* Video Player */
 #main_player {
 	background-image: url("http://i.imgur.com/QpOrZFN.png");
@@ -125,6 +117,14 @@ body {
 }
 #main_player #custom_iframe_embed_error, #main_player .playbtn-el {
 	background: #AA74FE;
+}
+
+/* Tasty Logo */
+body {
+	background-image: url(http://i.imgur.com/XP5pQL3.png);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	top: 50%;
 }
 
 /* Video Buttons (top) */
