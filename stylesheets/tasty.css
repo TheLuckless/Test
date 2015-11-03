@@ -113,7 +113,8 @@ span.name,
 /* Tastycat Logo */
 #main-room {
 	img style="float: left;
-	margin: 0px 15px 15px 0px;" url("http://i.imgur.com/XP5pQL3.png") 
+	margin: 0px 15px 15px 0px;
+	background-image: url("http://i.imgur.com/XP5pQL3.png") 
 	width="250"
 	<br style="clear: both;" /></p>
 }
