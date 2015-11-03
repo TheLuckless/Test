@@ -177,6 +177,7 @@ img {
     url("http://i.imgur.com/XP5pQL3.png");
     position: float:left;margin-left:20px;
     top: 50%; /* sets the top of the image 50% of the page height */
+    float:left;clear:left;margin-left:20px}.floatRightClear{float:left;clear:left;margin-left:20px}
     border-radius: 1em;
 }
 
