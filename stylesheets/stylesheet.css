@@ -1,9 +1,10 @@
 /*
     Custom CSS for Dubtrack.fm
     Plug Theme and UI improvements
-    Originally made by @kris | Redone by @sinful
+    Originally made by @kris | Redone by @sinful and @luckless
     https://dubtrack.fm/kris
     https://dubtrack.fm/sinful
+    https://dubtrack.fm/luckless
 */
 
 /* Main Menu (left) */
@@ -47,7 +48,7 @@ a, a:active, a:focus, a:hover,
 
 /* DubX Menu */
 .for_content {
-	background-image: url("http://i.imgur.com/1lb8QOd.png");
+	background-image: url("http://i.imgur.com/dhvLLBY.png");
 }
 .for_content_off {
 	color: #DDDDDD !important;
@@ -111,7 +112,7 @@ span.name,
 
 /* Video Player */
 #main_player {
-	background-image: url("http://i.imgur.com/1lb8QOd.png");
+	background-image: url("http://i.imgur.com/dhvLLBY.png");
 	border-radius: 0.4rem;
 }
 #main_player #custom_iframe_embed_error, #main_player .playbtn-el {
@@ -126,7 +127,7 @@ span.name,
 }
 #main_player .player_header span {
 	border-radius: 0.4rem;
-	background-image: url("http://i.imgur.com/1lb8QOd.png");
+	background-image: url("http://i.imgur.com/dhvLLBY.png");
 	font-weight: 500;
 	color: #FFF;
 }
@@ -139,7 +140,7 @@ span.name,
 
 /* Video Buttons (bottom) */
 #main_player .play-song-link {
-	background-image: url("http://i.imgur.com/1lb8QOd.png");
+	background-image: url("http://i.imgur.com/dhvLLBY.png");
 	border-radius: 0.4rem;
 }
 #main_player .player_sharing .player-controller-container .volume-controller-container #volume-div .ui-slider-range-min,
@@ -149,7 +150,7 @@ span.name,
 
 /* Chat */
 #main-room .right_section, #profileMainSection {
-	background-image: url("http://i.imgur.com/1lb8QOd.png");
+	background-image: url("http://i.imgur.com/dhvLLBY.png");
 	border-radius: 0.4rem;
 }
 #chat .chat_tools span:hover {
