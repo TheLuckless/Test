@@ -110,17 +110,6 @@ span.name,
 	opacity: .90;
 }
 
-/* Tastycat Logo */
-img {
-    url("http://i.imgur.com/XP5pQL3.png");
-    position: fixed; /* forces the element to stay fixed in relation to the viewport */
-    top: 50%; /* sets the top of the image 50% of the page height */
-    left: 1%; /* sets the left side of the image 1% across the page */
-    margin-left: 100px; /* moves the image half of its own width to the left-side of the page */
-    box-shadow: 0.5em 0.5em 0.7em #333; /* to give the illusion of 'floating'
-    border-radius: 1em;
-}
-
 /* Video Player */
 #main_player {
 	background-image: url("http://i.imgur.com/QpOrZFN.png");
@@ -181,6 +170,17 @@ img {
 }
 #chat .chat-container .chat-messages .chat-main li.chat-system-loading, #chat .chat-container .chat-messages .chat-main li.chat-welcome-message, #chat .chat-container .chat-messages .chat-main li.system, #chat .chat-container .chat-messages .chat-main li.system-error {
 	font-size: 14px;
+}
+
+/* Tastycat Logo */
+img {
+    url("http://i.imgur.com/XP5pQL3.png");
+    position: fixed; /* forces the element to stay fixed in relation to the viewport */
+    top: 50%; /* sets the top of the image 50% of the page height */
+    left: 1%; /* sets the left side of the image 1% across the page */
+    margin-left: 100px; /* moves the image half of its own width to the left-side of the page */
+    box-shadow: 0.5em 0.5em 0.7em #333; /* to give the illusion of 'floating'
+    border-radius: 1em;
 }
 
 /** Admins **/
