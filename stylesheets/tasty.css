@@ -111,7 +111,7 @@ span.name,
 }
 
 /* Tasty Logo */
-#header-global:after {
+body {
 	background-image: url(http://i.imgur.com/XP5pQL3.png);
 	background-repeat: no-repeat;
 	background-position: left middle;
