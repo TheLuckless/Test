@@ -119,14 +119,6 @@ span.name,
 	background: #AA74FE;
 }
 
-/* Tasty Logo */
-#main-room {
-	background-image: url(http://i.imgur.com/XP5pQL3.png);
-	background-repeat: no-repeat;
-	background-attachment: fixed;
-	top: 50%;
-}
-
 /* Video Buttons (top) */
 #main_player .player_header span.active {
 	background: #AA74FE;
