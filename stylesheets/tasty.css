@@ -110,6 +110,14 @@ span.name,
 	opacity: .90;
 }
 
+/* Tasty Logo */
+#header-global:after {
+	background-image: url(http://i.imgur.com/XP5pQL3.png);
+	position: fixed;
+	top: 50%;
+	left: 1%;
+}
+
 /* Video Player */
 #main_player {
 	background-image: url("http://i.imgur.com/QpOrZFN.png");
@@ -170,15 +178,6 @@ span.name,
 }
 #chat .chat-container .chat-messages .chat-main li.chat-system-loading, #chat .chat-container .chat-messages .chat-main li.chat-welcome-message, #chat .chat-container .chat-messages .chat-main li.system, #chat .chat-container .chat-messages .chat-main li.system-error {
 	font-size: 14px;
-}
-
-/* Tastycat Logo */
-img {
-    url("http://i.imgur.com/XP5pQL3.png");
-    position: float:left;margin-left:20px;
-    top: 50%; /* sets the top of the image 50% of the page height */
-    float:left;clear:left;margin-left:20px}.floatRightClear{float:left;clear:left;margin-left:20px}
-    border-radius: 1em;
 }
 
 /** Admins **/
