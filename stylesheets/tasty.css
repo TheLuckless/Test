@@ -114,8 +114,8 @@ span.name,
 body {
 	background-image: url(http://i.imgur.com/XP5pQL3.png);
 	background-repeat: no-repeat;
-	background-position: left top;
 	background-attachment: fixed;
+	top: 50%;
 }
 
 /* Video Player */
