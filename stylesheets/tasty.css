@@ -111,12 +111,14 @@ span.name,
 }
 
 /* Tastycat Logo */
-#main-room {
-	img style="float: left;
-	margin: 0px 15px 15px 0px;
-	background-image: url("http://i.imgur.com/XP5pQL3.png") 
-	width="250"
-	<br style="clear: both;" /></p>
+img {
+    url("http://i.imgur.com/XP5pQL3.png");
+    position: fixed; /* forces the element to stay fixed in relation to the viewport */
+    top: 50%; /* sets the top of the image 50% of the page height */
+    left: 1%; /* sets the left side of the image 1% across the page */
+    margin-left: 100px; /* moves the image half of its own width to the left-side of the page */
+    box-shadow: 0.5em 0.5em 0.7em #333; /* to give the illusion of 'floating'
+    border-radius: 1em;
 }
 
 /* Video Player */
